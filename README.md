@@ -6,7 +6,7 @@ Citation: Levinson, David M. (2000). Revenue choice on a serial network. *Journa
 
 ## Package Status
 
-Pipeline: `READY-TO-UPLOAD/PUBLIC`
+Pipeline: `UPLOADED`
 
 This package contains the final/published article scan for local reference plus the authored model/calculation artifacts found in the paper source folder. The paper is not an empirical-data paper. Its results are produced from a mathematical serial-network model evaluated with assumed coefficients; the reproducibility boundary is therefore the model derivation notebooks and spreadsheet calculation workbooks rather than raw observational data.
 
@@ -36,7 +36,7 @@ Generated: 2026-05-17 06:51:57 AEST
 
 Generated: 2026-05-20 15:23:47 AEST
 
-- Pipeline: `READY-TO-UPLOAD/PUBLIC`
+- Pipeline: `UPLOADED`
 - Sidecars added/updated: `PACKAGE_STATUS.md`, `PACKAGE_MANIFEST.csv`, `LICENSE_STATUS.md`.
 - Paper reference copies are for local audit convenience and are not public-upload assets without rights review.
 - Final GitHub upload should use the manifest include statuses and the license-status note.
