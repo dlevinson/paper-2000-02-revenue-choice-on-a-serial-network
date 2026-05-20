@@ -1,0 +1,54 @@
+workbook,sheet,max_row,max_column,nonempty_cells_observed,formula_cells_observed,sample_cells
+code/legacy/model_spreadsheets/modernized/nexus_welfare_model.xlsx,Defaults,12,3,35,6,B1=Values in Model | C1=Original | A2=v | B2==1/psi | C2==1/psi | A3=w | B3==1/alpha | C3==1/alpha
+code/legacy/model_spreadsheets/modernized/nexus_welfare_model.xlsx,W-Tax(All-Tax),14,28,308,220,A1=Tau | B1=OldTau | C1=Size | D1=a | E1=b | F1=ij | G1=jj | H1=BUTIJ
+code/legacy/model_spreadsheets/modernized/nexus_welfare_model.xlsx,W-Toll(All-Tax),14,29,319,240,A1=Tau | B1=OldTau | C1=Size | D1=a | E1=b | F1=ij | G1=jj | H1=BUTIJ
+code/legacy/model_spreadsheets/modernized/nexus_welfare_model.xlsx,W-Toll(All-Tax) (theta),29,32,676,536,A1=Theta | B1=Ccv' | C1=Theta-necessary | D1=Tau | E1=OldTau | F1=Size | G1=a | H1=b
+code/legacy/model_spreadsheets/modernized/nexus_welfare_model.xlsx,W-Tax(All-Toll)-NONC,14,28,308,250,A1=Tau | B1=OldTau | C1=Size | D1=a | E1=b | F1=ij | G1=jj | H1=BUTIJ
+code/legacy/model_spreadsheets/modernized/nexus_welfare_model.xlsx,W-Tax(All-Toll)-Coop,14,28,308,250,A1=Tau | B1=OldTau | C1=Size | D1=a | E1=b | F1=ij | G1=jj | H1=BUTIJ
+code/legacy/model_spreadsheets/modernized/nexus_welfare_model.xlsx,W-Toll(All-Toll)-NONC,14,29,319,240,A1=Tau | B1=OldTau | C1=Size | D1=a | E1=b | F1=ij | G1=jj | H1=BUTIJ
+code/legacy/model_spreadsheets/modernized/nexus_welfare_model.xlsx,W-Theta-Compare-NONC,5,6,26,12,A1=Size | B1=Theta-Default | C1=All-Tax:Theta-Necessary | D1=All-Toll:Theta-Necessary | E1=All-Tax: Toll | F1=All-Toll: Toll | A2=1 | B2=0.08
+code/legacy/model_spreadsheets/modernized/nexus_welfare_model.xlsx,W-Toll(All-Toll)-NONC(theta),50,32,1504,1250,A1=Theta | B1=Ccv' | C1=Theta-necessary | D1=Tau | E1=OldTau | F1=Size | G1=a | H1=b
+code/legacy/model_spreadsheets/modernized/nexus_welfare_model.xlsx,W-Toll(All-Toll)-Coop,14,28,308,250,A1=Tau | B1=OldTau | C1=Size | D1=a | E1=b | F1=ij | G1=jj | H1=BUTIJ
+code/legacy/model_spreadsheets/modernized/nexus_welfare_model.xlsx,W-Compare-NONC,157,56,494,430,A1=Size | B1=Welfare (TX) | C1=Welfare (XX) | D1=k-necessary | E1=Ratio | G1=Welfare (TT) | H1=Welfare (XT) | I1=k-necessary
+code/legacy/model_spreadsheets/modernized/nexus_welfare_model.xlsx,W-Compare-Coop,157,56,494,430,A1=Size | B1=Welfare (TX) | C1=Welfare (XX) | D1=k-necessary | E1=Ratio | G1=Welfare (TT) | H1=Welfare (XT) | I1=k-necessary
+code/legacy/model_spreadsheets/modernized/nexus_welfare_model.xlsx,W-Compare-NONC (theta),157,23,206,150,A1=Size | B1=Welfare (TX) | C1=Welfare (XX) | D1=Ccv' | E1=Theta-necessary | G1=Welfare (TT) | H1=Welfare (XT) | I1=Ccv'
+code/legacy/model_spreadsheets/modernized/nexus_welfare_model.xlsx,W-Compare-NONC (Ccv),157,23,217,160,A1=Size | B1=Welfare (TX) | C1=Welfare (XX) | D1=Ccv' | E1=Ccv-necessary | G1=Welfare (TT) | H1=Welfare (XT) | I1=Ccv'
+code/legacy/model_spreadsheets/modernized/nexus_welfare_model.xlsx,W-Compare-Coop (theta),157,23,206,150,A1=Size | B1=Welfare (TX) | C1=Welfare (XX) | D1=W+CC | E1=Theta-necessary | G1=Welfare (TT) | H1=Welfare (XT) | I1=W+CC
+code/legacy/model_spreadsheets/modernized/nexus_welfare_model.xlsx,W-TollCompare,11,14,134,90,A1=Size | B1=Toll (All-Tax) | C1=Toll (All-Toll)-Noncooperative | D1=Toll (All-Toll)-Cooperative | E1=Welfare | F1=Size | G1=W (All-Tax) | H1=W (All-Toll)-Noncooperative
+code/legacy/model_spreadsheets/modernized/nexus_welfare_model.xlsx,Toll-Model,69,9,226,30,A1=Toll | B1=ln(Toll) | C1=Size | D1=ln(Size) | F1=ln-model | A2=0.00898115642025986 | B2==LN(Toll) | C2=1
+code/legacy/model_spreadsheets/modernized/nexus_welfare_model.xlsx,Repeated,16,12,98,57,A1=Tau | B1=OldTau | C1=Uij | D1=CNij | E1=CCVij | F1=CCFij | G1=Rij | H1=Welfare
+code/legacy/model_spreadsheets/modernized/nexus_welfare_model.xlsx,Repeated (2),16,12,98,55,A1=Tau | B1=OldTau | C1=Uij | D1=CNij | E1=CCVij | F1=CCFij | G1=Rij | H1=Welfare
+code/legacy/model_spreadsheets/modernized/nexus_welfare_model.xlsx,WG-OptSize-Coop,78,35,1983,1540,A1=Tau | B1=OldTau | C1=Size | D1=a | E1=b | F1=ij | G1=jj | H1=BUTIJ
+code/legacy/model_spreadsheets/modernized/nexus_welfare_model.xlsx,WG-OptSize-Nonc,78,35,1983,1490,A1=Tau | B1=OldTau | C1=Size | D1=a | E1=b | F1=ij | G1=jj | H1=BUTIJ
+code/legacy/model_spreadsheets/modernized/nexus_welfare_model.xlsx,Toll-Regress-Result,19,9,66,0,A1=SUMMARY OUTPUT | A3=Regression Statistics | A4=Multiple R | B4=0.950227794462734 | A5=R Square | B5=0.902932861369513 | A6=Adjusted R Square | B6=0.898802344832045
+code/legacy/model_spreadsheets/modernized/nexus_welfare_model.xlsx,Toll-Regress-Data,51,5,255,50,A1=Tau | B1=Size | C1=ln (Size) | D1=Variable | E1=Fixed | A2=0.588963732530975 | B2=1 | C2==LN(B2)
+code/legacy/model_spreadsheets/modernized/nexus_welfare_model.xlsx,WG-OptSize (3),30,36,679,570,A1=Tau | B1=OldTau | C1=Size | D1=Theta | E1=a | F1=b | G1=ij | H1=jj
+code/legacy/model_spreadsheets/modernized/nexus_welfare_model.xlsx,WG-OptSize-OLD,30,35,660,546,A1=Tau | B1=OldTau | C1=Size | D1=a | E1=b | F1=ij | G1=jj | H1=BUTIJ
+code/legacy/model_spreadsheets/modernized/nexus_welfare_model.xlsx,W-AlmostPerfect-Coop,13,34,340,243,A1=Toll/km | B1=Tau | C1=OldTau | D1=Size | E1=a | F1=b | G1=ij | H1=jj
+code/legacy/model_spreadsheets/modernized/nexus_welfare_model.xlsx,Module1,1,1,0,0,
+code/legacy/model_spreadsheets/modernized/nexus_welfare_model.xlsx,Module2,1,1,0,0,
+code/legacy/model_spreadsheets/modernized/nexus_simple_reaction_unique_model.xlsx,Defaults,12,3,35,6,B1=Values in Model | C1=Original | A2=v | B2==1/psi | C2==1/psi | A3=w | B3==1/alpha | C3==1/alpha
+code/legacy/model_spreadsheets/modernized/nexus_simple_reaction_unique_model.xlsx,S-Toll (All-Tax),54,257,1224,1048,A1=Tau | B1=OldTau | C1=Size | D1=a | E1=b | F1=ij | G1=jj | H1=BUTIJ
+code/legacy/model_spreadsheets/modernized/nexus_simple_reaction_unique_model.xlsx,S-Toll(All-Toll),54,257,1224,1048,A1=Tau | B1=OldTau | C1=Size | D1=a | E1=b | F1=ij | G1=jj | H1=BUTIJ
+code/legacy/model_spreadsheets/modernized/nexus_simple_reaction_unique_model.xlsx,S-Wcompare,52,7,359,300,B1=All-Tax Environment | E1=All-Toll Environment | A2=Toll | B2=Welfare-Tax Environment | C2=Consumers' Surplus-Tax Environment | D2=Profit-Tax Environment | E2=Welfare-Toll Enviornment | F2=Consumers' Surplus-Toll Environment
+code/legacy/model_spreadsheets/modernized/nexus_simple_reaction_unique_model.xlsx,W-React-JS=10,15,257,288,220,A1=Tau | B1=OldTau | C1=Size | D1=a | E1=b | F1=ij | G1=jj | H1=BUTIJ
+code/legacy/model_spreadsheets/modernized/nexus_simple_reaction_unique_model.xlsx,W-React-JS=1,15,257,288,220,A1=Tau | B1=OldTau | C1=Size | D1=a | E1=b | F1=ij | G1=jj | H1=BUTIJ
+code/legacy/model_spreadsheets/modernized/nexus_simple_reaction_unique_model.xlsx,P-React-JS=10,15,257,288,220,A1=Tau | B1=OldTau | C1=Size | D1=a | E1=b | F1=ij | G1=jj | H1=BUTIJ
+code/legacy/model_spreadsheets/modernized/nexus_simple_reaction_unique_model.xlsx,P-React-JS=1,15,257,288,220,A1=Tau | B1=OldTau | C1=Size | D1=a | E1=b | F1=ij | G1=jj | H1=BUTIJ
+code/legacy/model_spreadsheets/modernized/nexus_simple_reaction_unique_model.xlsx,Toll-Compare,12,5,60,44,A1=OldTau | B1=∏-Jurisdiction Size=10 km | C1=W-Jurisdiction Size=10 km | D1=∏-Jurisdiction Size=1 km | E1=W-Jurisdiction Size=1 km | A2=0 | B2=='P-React-JS=10'!A2 | C2=='W-React-JS=10'!A2
+code/legacy/model_spreadsheets/modernized/nexus_simple_reaction_unique_model.xlsx,W-UNIQUE-JS=1,33,257,539,436,A1=Tau | B1=OldTau | C1=Size | D1=a | E1=b | F1=ij | G1=jj | H1=BUTIJ
+code/legacy/model_spreadsheets/modernized/nexus_simple_reaction_unique_model.xlsx,Module1,1,1,0,0,
+code/legacy/model_spreadsheets/modernized/welfare_calculations_dissertation_ch4.xlsx,toll,65,20,889,762,C2=variable | E2=value | C3=beta | E3=1 | C4=alpha | E4=-0.1 | C5=zeta | E5=0.5
+code/legacy/model_spreadsheets/modernized/welfare_calculations_dissertation_ch4.xlsx,tax,63,9,330,260,A11=asize | B11=bsize | C11=Ui | D11=Cs | E11=Crho | F11=Cc | G11=W=U-Cs-Crho | I11=(U-Crho-Cs)/bsize
+code/legacy/model_spreadsheets/modernized/welfare_calculations_dissertation_ch4.xlsx,w-maxtau,49,19,414,373,A1=Size | B1=Tau | C1=Uii | D1=Uij | E1=Rij | F1=Rjj | G1=Cs | H1=Crhoii
+code/legacy/model_spreadsheets/modernized/welfare_calculations_dissertation_ch4.xlsx,tauVtax,40,38,1061,860,A2=TOLL | B2=1 | C2=Toll (t*) | D2=Toll (t*) | V2=TAX | AG2=TAX | AL2=Tax-Toll Welfare | A3=Size
+code/legacy/model_spreadsheets/modernized/welfare_calculations_dissertation_ch4.xlsx,TaxV.Toll,33,17,456,237,A1=Size | B1=Kappa-necessary (phi 1.1) | C1=Kappa-necessary (phi 0.1) | D1=Revenue/Kappa | E1=Tau* | F1=Revenue | G1=Costs | H1=Toll Rev/Costs
+code/legacy/model_spreadsheets/modernized/welfare_calculations_dissertation_ch4.xlsx,thetav.Size,40,38,1029,860,A2=TOLL | B2=1 | U2=TAX | AF2=TAX | AK2=Tax-Toll Welfare | A3=Size | B3=Theta (Collection Cost Coefficient) | C3=Tau (Toll)
+code/legacy/model_spreadsheets/modernized/welfare_calculations_dissertation_ch4.xlsx,Sheet9,1,1,0,0,
+code/legacy/model_spreadsheets/modernized/welfare_calculations_dissertation_ch4.xlsx,Sheet10,1,1,0,0,
+code/legacy/model_spreadsheets/modernized/welfare_calculations_dissertation_ch4.xlsx,Sheet11,1,1,0,0,
+code/legacy/model_spreadsheets/modernized/welfare_calculations_dissertation_ch4.xlsx,Sheet12,1,1,0,0,
+code/legacy/model_spreadsheets/modernized/welfare_calculations_dissertation_ch4.xlsx,Sheet13,1,1,0,0,
+code/legacy/model_spreadsheets/modernized/welfare_calculations_dissertation_ch4.xlsx,Sheet14,1,1,0,0,
+code/legacy/model_spreadsheets/modernized/welfare_calculations_dissertation_ch4.xlsx,Sheet15,1,1,0,0,
+code/legacy/model_spreadsheets/modernized/welfare_calculations_dissertation_ch4.xlsx,Sheet16,1,1,0,0,

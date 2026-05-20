@@ -1,0 +1,24 @@
+source_path,decision,package_path,reason
+/Users/dlev2617/Documents/Papers/~05-Published/Journal of Transport Economics and Policy/JTEP-Serial/RevenueChoice.pdf,include,paper/revenue_choice_on_a_serial_network_published_scan.pdf,Published 30-page JTEP scan; used as the package paper reference.
+/Users/dlev2617/Documents/Papers/~05-Published/Journal of Transport Economics and Policy/JTEP-Serial/serial-work.nb,include,code/legacy/model_notebooks/serial_work_symbolic_derivation.nb,Mathematica 3.0 symbolic derivation notebook for the serial-network model.
+/Users/dlev2617/Documents/Papers/~05-Published/Journal of Transport Economics and Policy/JTEP-Serial/serial-final.nb,include,code/legacy/model_notebooks/serial_final_symbolic_derivation.nb,Mathematica 3.0 final/alternate symbolic derivation notebook.
+/Users/dlev2617/Documents/Papers/~05-Published/Journal of Transport Economics and Policy/JTEP-Serial/NexWelfare.xls,include,code/legacy/model_spreadsheets/original/nexus_welfare_model.xls,Original Excel welfare/tax/toll/collection-cost/sensitivity calculation workbook.
+/Users/dlev2617/Documents/Papers/~05-Published/Journal of Transport Economics and Policy/JTEP-Serial/NexSimple.xls,include,code/legacy/model_spreadsheets/original/nexus_simple_reaction_unique_model.xls,Original Excel reaction-curve/uniqueness model workbook.
+/Users/dlev2617/Documents/Papers/~05-Published/Journal of Transport Economics and Policy/JTEP-Serial/TaxOrToll.PDF,exclude,,1997 TRB draft/preprint with different title; useful for text extraction but not the final article copy.
+/Users/dlev2617/Documents/Papers/~05-Published/Journal of Transport Economics and Policy/JTEP-Serial/Serialjt.pdf,exclude,,"June 1998 draft PDF; used for readable model audit, not a final package artifact."
+/Users/dlev2617/Documents/Papers/~05-Published/Journal of Transport Economics and Policy/JTEP-Serial/Serial.jtep,exclude,,Manuscript draft source; final published scan is included instead.
+/Users/dlev2617/Documents/Papers/~05-Published/Journal of Transport Economics and Policy/JTEP-Serial/Serial.jtep.DOC,exclude,,Duplicate/variant manuscript draft source; not data/code.
+/Users/dlev2617/Documents/Papers/~05-Published/Journal of Transport Economics and Policy/JTEP-Serial/Serial2.jtep,exclude,,Manuscript draft source; not data/code.
+/Users/dlev2617/Documents/Papers/~05-Published/Journal of Transport Economics and Policy/JTEP-Serial/Serial3-jtep.doc,exclude,,Manuscript draft source; not data/code.
+/Users/dlev2617/Documents/Papers/~05-Published/Journal of Transport Economics and Policy/JTEP-Serial/Serial4-jtep.doc,exclude,,Manuscript draft source; not data/code.
+/Users/dlev2617/Documents/Papers/~05-Published/Journal of Transport Economics and Policy/JTEP-Serial/Figures.doc,exclude,,"Figure-placeholder Word document; figure values are in the workbooks, while embedded pictures are not reusable source data."
+/Users/dlev2617/Documents/Papers/~05-Published/Journal of Transport Economics and Policy/JTEP-Serial/Table 2 Model Equations,exclude,,One-page Word equation layout extracted into the final paper; Mathematica/workbook model sources are retained instead.
+/Users/dlev2617/Documents/Papers/~05-Published/Journal of Transport Economics and Policy/JTEP-Serial/jtep.let,exclude,,"Letter/admin file, outside archive boundary."
+/Users/dlev2617/Documents/Papers/~05-Published/Journal of Transport Economics and Policy/JTEP-Serial/jtep-let2.doc,exclude,,"Reviewer/editor response letter, outside archive boundary."
+/Users/dlev2617/Documents/Papers/~05-Published/Journal of Transport Economics and Policy/JTEP-Serial/jtep-let3.doc,exclude,,"Reviewer/editor response letter, outside archive boundary."
+/Users/dlev2617/Documents/Papers/~05-Published/Journal of Transport Economics and Policy/JTEP-Serial/jtep-let4.doc,exclude,,"Reviewer/editor response letter, outside archive boundary."
+/Users/dlev2617/Documents/Papers/~05-Published/Journal of Transport Economics and Policy/JTEP-Serial/TRB/Welfare2.xls copy,include,code/legacy/model_spreadsheets/original/welfare_calculations_dissertation_ch4.xls,Predecessor dissertation/working calculation workbook for the toll/tax welfare model.
+/Users/dlev2617/Documents/Papers/~05-Published/Journal of Transport Economics and Policy/JTEP-Serial/TRB,exclude_except_welfare2_workbook,,TRB drafts and correspondence excluded except for the included predecessor calculation workbook listed above.
+/Users/dlev2617/Documents/Papers/~05-Published/Journal of Transport Economics and Policy/JTEP-Serial/WCTR,exclude,,"Conference abstract/draft/letter material, outside archive boundary."
+/Users/dlev2617/Documents/Papers/~05-Published/Journal of Transport Economics and Policy/JTEP-Serial/TRF,exclude,,"Conference draft/correspondence material, outside archive boundary."
+/Users/dlev2617/Documents/Papers/~05-Published/Journal of Transport Economics and Policy/JTEP-Serial/WRSA,exclude,,"Conference letter material, outside archive boundary."
