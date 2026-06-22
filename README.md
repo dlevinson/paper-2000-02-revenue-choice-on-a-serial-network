@@ -1,5 +1,9 @@
 # Revenue Choice on a Serial Network
 
+## Contribution
+
+This paper develops a positive theory of when decentralized jurisdictions finance roads with taxes, tolls, or a combination of both. Its serial-network model shows how trip length, jurisdiction size, demand elasticity, collection cost, and local versus nonlocal use shape free-rider incentives and make tolling more attractive as control decentralizes and collection becomes cheaper.
+
 Row ID: `paper-2000-02`
 
 Citation: Levinson, David M. (2000). Revenue choice on a serial network. *Journal of Transport Economics and Policy*, 34(1), 69-98. Public record: https://hdl.handle.net/11299/179872
